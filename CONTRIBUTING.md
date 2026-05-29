@@ -5,8 +5,8 @@ First off, thanks for taking the time to contribute! 🎉
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/li1050109098/beta-project-arena.git
-cd beta-project-arena
+git clone git@github.com:lijiajing-11/repo-sense.git
+cd repo-sense
 npm install
 npm run build
 ```
@@ -59,4 +59,4 @@ Be excellent to each other. We're here to build cool things. ✨
 
 ---
 
-*β-Labs Corp — Open Source with ❤️*
+*Beta Team — Open Source with ❤️*

@@ -157,7 +157,7 @@ rs battle facebook/react vuejs/core
 | 🧬 **repo-sense** | `rs` CLI | TypeScript + Octokit | 实时 GitHub 仓库洞察工具 |
 | 📊 **ARA** | `ara` CLI | Python + GitHub API | 简约 GitHub Star 统计工具 |
 
-| 对比维度 | Α-tech (ARA) | β-Labs (repo-sense) |
+| 对比维度 | Alpha Team (ARA) | Beta Team (repo-sense) |
 |----------|-------------|---------------------|
 | **技术栈** | Python 🐍 | TypeScript 🔷 |
 | **指标维度** | 仅 Star | Star + Fork + Issue + 语言 + 许可证 |
@@ -244,7 +244,7 @@ npx repo-sense watch lijiajing-11/repo-sense
 ---
 
 <p align="center">
-  <sub>🔥 由 <b>β-Labs</b> 打造 —— <i>"智慧，不只是数字。"</i></sub>
+  <sub>🔥 由 <b>Beta Team</b> 打造 —— <i>"智慧，不只是数字。"</i></sub>
 </p>
 
 ---
@@ -410,7 +410,7 @@ rs battle facebook/react vuejs/core
 
 ## 📊 Comparison: repo-sense vs ARA
 
-| Dimension | Α-tech (ARA) | β-Labs (repo-sense) |
+| Dimension | Alpha Team (ARA) | Beta Team (repo-sense) |
 |-----------|-------------|---------------------|
 | **Stack** | Python 🐍 | TypeScript 🔷 |
 | **Metrics** | Stars only | Stars + Forks + Issues + Language + License |
@@ -496,5 +496,5 @@ npx repo-sense watch lijiajing-11/repo-sense
 ```
 
 <p align="center">
-  <sub>Built with 🔥 by <b>β-Labs Corp</b> — <i>"Intelligence. Not just numbers."</i></sub>
+  <sub>Built with 🔥 by <b>Beta Team</b> — <i>"Intelligence. Not just numbers."</i></sub>
 </p>
