@@ -30,7 +30,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lijiajing-11/repo-sense.git"
+    "url": "https://github.com/lijiajing-11/beta-project-arena.git"
   },
   "dependencies": {
     "@octokit/rest": "^21.0.2",

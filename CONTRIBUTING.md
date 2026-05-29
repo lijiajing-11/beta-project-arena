@@ -5,8 +5,8 @@ First off, thanks for taking the time to contribute! 🎉
 ## 🚀 Getting Started
 
 ```bash
-git clone git@github.com:lijiajing-11/repo-sense.git
-cd repo-sense
+git clone git@github.com:lijiajing-11/beta-project-arena.git
+cd beta-project-arena
 npm install
 npm run build
 ```

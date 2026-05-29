@@ -71,8 +71,8 @@ rs watch facebook/react
 ### 方案三：源码构建
 
 ```bash
-git clone git@github.com:lijiajing-11/repo-sense.git
-cd repo-sense
+git clone git@github.com:lijiajing-11/beta-project-arena.git
+cd beta-project-arena
 npm install
 npm run build
 ./dist/rs watch facebook/react
@@ -173,8 +173,8 @@ rs battle facebook/react vuejs/core
 
 ```bash
 # 克隆并安装
-git clone git@github.com:lijiajing-11/repo-sense.git
-cd repo-sense
+git clone git@github.com:lijiajing-11/beta-project-arena.git
+cd beta-project-arena
 npm install
 
 # 构建
@@ -238,7 +238,7 @@ MIT © [lijiajing-11](https://github.com/lijiajing-11)
 如果 repo-sense 帮你盯住了竞品动态，**点个 Star** ⭐ —— 每个 Star 都是下一个功能的燃料！
 
 ```bash
-npx repo-sense watch lijiajing-11/repo-sense
+npx repo-sense watch lijiajing-11/beta-project-arena
 ```
 
 ---
@@ -257,8 +257,8 @@ npx repo-sense watch lijiajing-11/repo-sense
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/repo--sense-β--Labs-8B5CF6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1e1b4b">
-    <img src="https://img.shields.io/badge/repo--sense-β--Labs-8B5CF6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=f5f3ff" alt="repo-sense Banner">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/repo--sense-Beta%20Team-8B5CF6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1e1b4b">
+    <img src="https://img.shields.io/badge/repo--sense-Beta%20Team-8B5CF6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=f5f3ff" alt="repo-sense Banner">
   </picture>
 </p>
 
@@ -274,7 +274,7 @@ npx repo-sense watch lijiajing-11/repo-sense
   <a href="https://www.npmjs.com/package/repo-sense"><img src="https://img.shields.io/npm/v/repo-sense?style=flat&color=8B5CF6" alt="npm"/></a>
   <a href="#"><img src="https://img.shields.io/npm/dm/repo-sense?style=flat&color=6366f1" alt="npm downloads"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-22c55e?style=flat" alt="MIT License"/></a>
-  <a href="#"><img src="https://img.shields.io/github/stars/lijiajing-11/repo-sense?style=flat&color=facc15" alt="GitHub Stars"/></a>
+  <a href="#"><img src="https://img.shields.io/github/stars/lijiajing-11/beta-project-arena?style=flat&color=facc15" alt="GitHub Stars"/></a>
 </p>
 
 ---
@@ -330,8 +330,8 @@ rs watch facebook/react
 ### Option 3: From source
 
 ```bash
-git clone git@github.com:lijiajing-11/repo-sense.git
-cd repo-sense
+git clone git@github.com:lijiajing-11/beta-project-arena.git
+cd beta-project-arena
 npm install
 npm run build
 node dist/index.js watch facebook/react
@@ -427,8 +427,8 @@ rs battle facebook/react vuejs/core
 
 ```bash
 # Clone and install
-git clone git@github.com:lijiajing-11/repo-sense.git
-cd repo-sense
+git clone git@github.com:lijiajing-11/beta-project-arena.git
+cd beta-project-arena
 npm install
 
 # Build
@@ -492,7 +492,7 @@ MIT © [lijiajing-11](https://github.com/lijiajing-11)
 If repo-sense helps you keep an eye on the competition, **star the repo** ⭐ — every star fuels the next feature!
 
 ```bash
-npx repo-sense watch lijiajing-11/repo-sense
+npx repo-sense watch lijiajing-11/beta-project-arena
 ```
 
 <p align="center">
